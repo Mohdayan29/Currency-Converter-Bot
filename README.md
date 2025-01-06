@@ -1,9 +1,5 @@
 # Currency Converter Bot
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-Currency%20Converter%20Bot-green)](https://github.com/rajatrawal/currency-converter-bot)
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-0088cc)](https://t.me/coin_converter_bot)
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
 [![Dialogflow](https://img.shields.io/badge/Dialogflow-blue)](https://cloud.google.com/dialogflow)
 [![Flask](https://img.shields.io/badge/Flask-Web%20Server-blue)](https://flask.palletsprojects.com/)
